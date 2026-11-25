@@ -8,7 +8,8 @@ import {categoryIcon} from './icons.js';
 import {orderItems} from './order.js';
 import {categories,classify} from './categories.js';
 import {correctProduct} from './correction.js';
-import {firebaseConfig} from './config.js';
+import {firebaseConfig,sharedConfig} from './config.js?v=compartilhada-1';
+import {createSharedClient,readLocalSnapshot} from './shared.js';
 const $=id=>document.getElementById(id);
 let offers=[],priceLookupReady=false,shoppingSession=null,paidId=null;
 try{shoppingSession=JSON.parse(localStorage.getItem('market-session')||'null');}catch{}
@@ -316,7 +317,26 @@ function showPage(focus=false){
 }
 window.addEventListener('hashchange',()=>showPage(true));
 showPage();
+async function bootShared(){
+ let local={items:{},history:{}};
+ const migrationKey='rodovia-shared-import-'+sharedConfig.listId;
+ try{local=readLocalSnapshot(localStorage.getItem(storageKey));}catch{message('Não foi possível ler os itens deste aparelho. A lista compartilhada continua disponível.');}
+ let migrated=false;try{migrated=localStorage.getItem(migrationKey)==='true';}catch{}
+ const hasLocal=Object.keys(local.items).length>0||Object.keys(local.history).length>0;
+ function finishMigration(){migrated=true;try{localStorage.setItem(migrationKey,'true');}catch{}$('local-import').hidden=true;}
+ cloud=createSharedClient(sharedConfig,{
+  onState(state){items=state.items;history=state.history;historyReady=true;ready=true;connected=true;status('Lista compartilhada · sincronizada');$('local-import').hidden=migrated||!hasLocal;if(!migrated&&hasLocal)$('local-import-text').textContent=`Este aparelho tem ${Object.keys(local.items).length} itens locais. Quer juntá-los à lista compartilhada?`;lock();},
+  onConnection(online){connected=online;ready=online;status(online?'Lista compartilhada · sincronizada':'Sem conexão · aguardando reconexão');lock();}
+ });
+ $('workspace').hidden=false;$('login').hidden=true;$('logout').hidden=true;status('Conectando à lista compartilhada…');lock();
+ try{
+  await cloud.start();if(!hasLocal)finishMigration();
+ }catch{message('Não foi possível conectar à lista compartilhada. Seus itens locais continuam preservados. A conexão será tentada novamente.');}
+ $('import-local').onclick=()=>mutate(async()=>{await cloud.importLocal(local);finishMigration();message('Itens deste aparelho adicionados à lista compartilhada.');});
+ $('dismiss-local').onclick=finishMigration;
+}
 async function boot(){
+ if(sharedConfig.url){await bootShared();return;}
  if(!configured){
   try{const saved=JSON.parse(localStorage.getItem(storageKey)||'{}');if(saved.version===2){items=saved.items||{};history=saved.history||{};}else{items=saved;history={};for(const [id,item] of Object.entries(items)){if(item.createdAt)history[`added_${id}_${item.createdAt}`]={name:item.name,category:item.category,quantity:item.quantity||'',kind:'added',at:item.createdAt,itemId:id};if(item.purchasedAt)history[`bought_${id}_${item.purchasedAt}`]={name:item.name,category:item.category,quantity:item.quantity||'',kind:'bought',at:item.purchasedAt,itemId:id};}}if(!items||Array.isArray(items)||typeof items!=='object')throw Error('invalid');historyReady=true;}
   catch{items={};message('O armazenamento local não está disponível ou não pôde ser lido. Verifique as permissões do navegador.');}

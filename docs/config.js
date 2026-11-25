@@ -8,3 +8,6 @@ export const firebaseConfig = {
   projectId: "",
   appId: ""
 };
+
+// Public-by-link list identifier. Never an administrator credential.
+export const sharedConfig = {url:'https://lista-rodovia-dados.agenciakoko.chatgpt.site',listId:'e90b245fd6684690b4f80d964a7c4595'};

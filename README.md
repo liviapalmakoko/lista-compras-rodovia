@@ -20,19 +20,15 @@ A publicação usa **Settings → Pages → Deploy from a branch → main → /d
 
 A atualização automática diária das ofertas está pendente de autorização do workflow. Para atualizar manualmente, execute `python3 scripts/update_prices.py`, copie `site/data/prices.json` para `docs/data/prices.json` e faça commit e push. As referências vencem após 24 horas; depois disso, a lista usa o histórico disponível.
 
-## Compartilhar entre os dois celulares
+## Lista compartilhada entre celulares
 
-**Sem configuração do Firebase, a lista fica apenas no navegador atual.** Para compartilhar:
+O site agora usa um banco compartilhado no Sites. Todos que acessarem o endereço do GitHub Pages podem ver e editar a mesma lista, sem login. As mudanças são sincronizadas em poucos segundos enquanto a página está aberta. A sessão do mercado continua sendo uma preferência de cada aparelho; produtos, preços pagos, histórico e estatísticas são compartilhados.
 
-1. Crie um projeto em https://console.firebase.google.com/ e registre um aplicativo Web.
-2. Habilite Authentication → E-mail/senha e crie duas contas em Users. Anote os dois UIDs. Não publique senhas.
-3. Crie um **Realtime Database** em modo bloqueado (não é Firestore).
-4. Em `database.rules.json`, substitua os dois UIDs de exemplo pelos UIDs reais. Publique o JSON em Realtime Database → Rules.
-5. Preencha `site/config.js` com apiKey, authDomain, databaseURL, projectId e appId do aplicativo Web. Essa configuração é pública por design; não use chave Admin nem arquivo de conta de serviço.
-6. Em Authentication → Settings → Authorized domains, adicione `liviapalmakoko.github.io`.
-7. Faça commit e push. Cada pessoa entra com sua conta no mesmo endereço do site.
+Na primeira abertura após a atualização, se o navegador tiver itens locais, use **Juntar meus itens**. A importação preserva o que já estiver no banco, sem sobrescrever registros com o mesmo ID. O backup local anterior fica mantido no navegador; não há envio automático que possa trazer testes antigos de outros aparelhos. Depois de importar, o aparelho não importa novamente sozinho.
 
-Os dois UIDs são os únicos autorizados a ler e alterar itens e histórico. A sessão de mercado é mantida por navegador; os registros da compra são compartilhados pelo banco. O modo compartilhado precisa de conexão. Ao editar o mesmo campo simultaneamente, prevalece a última alteração recebida.
+É preciso conexão para alterar a lista. Se cair, o site preserva a tela e reconecta; não cria outra lista independente. O serviço evita regravar a lista toda: mudanças em produtos diferentes ou campos diferentes são preservadas. Se duas pessoas alterarem o mesmo campo ao mesmo tempo, a última alteração recebida prevalece.
+
+`site/shared.js` contém o cliente; `backend/` contém o serviço e a migração do banco. A configuração anterior do Firebase está vazia e não é usada enquanto `sharedConfig.url` estiver definida. Nenhuma chave administrativa é enviada aos navegadores. A lista é pública por link, e o identificador público também aparece no código do repositório.
 
 ## Preços e aprendizado
 
@@ -70,7 +66,7 @@ Para atualizar as ofertas localmente, com internet:
 python3 scripts/update_prices.py
 ```
 
-Os testes cobrem classificação, correção, ordenação, histórico, duração, sugestões, divisão do ditado, estatísticas e totais. Login e sincronização precisam ser conferidos no projeto Firebase configurado. O microfone precisa de teste real no navegador do usuário.
+Os testes cobrem classificação, correção, ordenação, histórico, duração, sugestões, divisão do ditado, estatísticas e totais. A sincronização do serviço compartilhado foi testada com clientes independentes, importação sem sobrescrita e atualizações simultâneas. O microfone precisa de teste real no navegador do usuário.
 
 ## Créditos e referências
 

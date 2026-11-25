@@ -64,3 +64,5 @@ label,.page-menu a,.sort-options button,.filters button,.quiet{font-size:var(--t
 
 /* Informações do produto em uma linha compacta, com quebra natural. */
 .item>.item-text{display:flex;align-items:baseline;flex-wrap:wrap;column-gap:10px;row-gap:3px}.item>.item-text>.item-name,.item>.item-text>.item-brand,.item>.item-text>.item-quantity,.item>.item-text>.price-estimate,.item>.item-text>.purchase-date,.item>.item-text>.paid-link,.item>.item-text>.price-source{display:inline;margin:0;padding-top:0}.item>.item-text>.item-quantity:before,.item>.item-text>.item-brand:before{content:'·';margin-right:8px;color:#aaa99e}.item>.item-text>.price-source{display:inline;font-size:var(--text-tiny)!important}
+
+.local-import{margin-top:20px;background:#f0edf7;border:1px solid #ded8e9;border-radius:10px;padding:16px}.local-import p{font-size:12px;margin:0 0 12px}.local-import>div{display:flex;gap:10px;flex-wrap:wrap}.local-import .primary{font-size:12px;padding:10px 13px}
