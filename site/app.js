@@ -3,7 +3,7 @@ import {listTotals} from './totals.js';
 import {findOffer,historyPrice,marketName} from './prices.js';
 import {purchaseStats} from './stats.js';
 import {suggestions,productKey,DAY} from './history.js';
-import {splitSpokenItems,speechSupported,createRecognition} from './voice.js';
+import {splitSpokenItems,speechSupported,createRecognition} from './voice.js?v=soma-1';
 import {categoryIcon} from './icons.js';
 import {orderItems} from './order.js';
 import {categories,classify} from './categories.js';
@@ -207,7 +207,7 @@ function renderStats(){
 let recognition=null,voiceFinal='',voiceInterim='',listening=false;
 function updateVoicePreview(){
  const transcript=[voiceFinal,voiceInterim].filter(Boolean).join(' ').trim();
- $('voice-transcript').textContent=transcript||'Ex.: arroz MAIS feijão MAIS detergente';
+ $('voice-transcript').textContent=transcript||'Ex.: arroz SOMA feijão SOMA detergente';
  const names=splitSpokenItems(transcript);
  $('voice-preview').replaceChildren();
  for(const raw of names){const name=$('autocorrect').checked?correctProduct(raw).text:raw;const li=document.createElement('li');li.textContent=`${name} · ${categories.find(c=>c.id===classify(name)).name}`;$('voice-preview').append(li);}
@@ -221,7 +221,7 @@ $('voice-button').onclick=()=>{
  voiceFinal='';voiceInterim='';$('voice-status').textContent='Pedindo acesso ao microfone…';$('voice-dialog').showModal();
  recognition=createRecognition();listening=true;$('voice-stop').disabled=false;updateVoicePreview();
  recognition.onresult=event=>{let final='',interim='';for(let i=0;i<event.results.length;i++){if(event.results[i].isFinal)final+=event.results[i][0].transcript+' ';else interim+=event.results[i][0].transcript+' ';}voiceFinal=final.trim();voiceInterim=interim.trim();updateVoicePreview();};
- recognition.onstart=()=>{$('voice-status').textContent='Ouvindo… diga MAIS entre os produtos.';};
+ recognition.onstart=()=>{$('voice-status').textContent='Ouvindo… diga SOMA entre os produtos.';};
  recognition.onend=()=>{listening=false;voiceInterim='';$('voice-stop').disabled=true;if(!$('voice-status').dataset.error)$('voice-status').textContent=voiceFinal?'Confira os itens antes de adicionar.':'Não ouvi nenhum item. Feche e tente de novo.';updateVoicePreview();};
  recognition.onerror=event=>{$('voice-status').dataset.error='true';$('voice-status').textContent=event.error==='not-allowed'?'O acesso ao microfone foi negado. Libere nas permissões do navegador.':event.error==='network'?'O reconhecimento precisa de conexão. Confira sua internet.':'Não consegui reconhecer a fala. Feche e tente novamente.';};
  delete $('voice-status').dataset.error;

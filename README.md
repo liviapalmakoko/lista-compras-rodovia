@@ -8,7 +8,7 @@ Site em português, feito para celular e pronto para GitHub Pages. HTML, CSS e J
 - Organização por categoria, ordem de inclusão ou A–Z.
 - Quantidade e duração previstas opcionais. Marca e preço pago são opcionais nos detalhes da compra.
 - Correção de digitação e sugestões de preenchimento podem ser desligadas separadamente.
-- Ditado em português: diga “arroz MAIS feijão MAIS detergente”, confira a prévia e adicione os itens.
+- Ditado em português: diga “arroz SOMA feijão SOMA detergente”, confira a prévia e adicione os itens.
 - Modo Cheguei ao mercado, com Assaí Méier, Prezunic Méier ou outro mercado.
 - Ao dar check, a janela permite informar preço e marca. Vazia, mostra o link Continuar sem preencher; preenchida, mostra Salvar. O × cancela a compra e devolve o produto à lista.
 - Totais discretos ao final da lista: estimativa e valor real já gasto. Valores desconhecidos deixam a estimativa parcial.
@@ -44,7 +44,7 @@ Limpar comprados preserva o histórico. O × da janela de compra remove o evento
 
 ## Voz
 
-O reconhecimento usa SpeechRecognition do navegador em pt-BR. Pode precisar de internet e processar o áudio no serviço do navegador. O site não grava áudio. A compatibilidade varia; é necessário permitir o microfone. HTTPS ou localhost são necessários. Separe produtos com a palavra MAIS. Quantidade e duração podem ser ajustadas antes de adicionar.
+O reconhecimento usa SpeechRecognition do navegador em pt-BR. Pode precisar de internet e processar o áudio no serviço do navegador. O site não grava áudio. A compatibilidade varia; é necessário permitir o microfone. HTTPS ou localhost são necessários. Separe produtos com a palavra SOMA. Quantidade e duração podem ser ajustadas antes de adicionar.
 
 ## Rodar e testar
 
