@@ -174,9 +174,11 @@ $('autocorrect').addEventListener('change',predict);
 $('name').addEventListener('input',predict);
 for(const button of document.querySelectorAll('[data-filter]'))button.onclick=()=>{filter=button.dataset.filter;document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===button)));render();};
 $('clear').onclick=()=>{const ids=Object.keys(items).filter(id=>items[id].done);if(ids.length&&confirm(`Remover ${ids.length} ${ids.length===1?'item comprado':'itens comprados'}?`))mutate(()=>erase(ids));};
-function openEdit(id){editId=id;const item=items[id];$('edit-name').value=item.name;$('edit-duration').value=item.duration||'';$('edit-quantity').value=item.quantity;$('edit-category').value=item.category;$('edit-dialog').showModal();}
+function openEdit(id){editId=id;const item=items[id];$('edit-name').value=item.name;$('edit-duration').value=item.duration||'';$('edit-quantity').value=item.quantity;$('edit-category').value=item.category;let editCorrection=$('autocorrect').checked;try{const saved=localStorage.getItem('market-edit-autocorrect');if(saved!==null)editCorrection=saved==='true';}catch{}$('edit-autocorrect').checked=editCorrection;updateEditCorrection();$('edit-dialog').showModal();}
+function updateEditCorrection(){const enabled=$('edit-autocorrect').checked;$('edit-name').spellcheck=enabled;$('edit-name').setAttribute('autocorrect',enabled?'on':'off');}
+$('edit-autocorrect').addEventListener('change',()=>{updateEditCorrection();try{localStorage.setItem('market-edit-autocorrect',String($('edit-autocorrect').checked));}catch{}});
 $('cancel-edit').onclick=()=>$('edit-dialog').close();
-$('edit-form').onsubmit=event=>{event.preventDefault();const original=$('edit-name').value.trim();const name=$('autocorrect').checked?correctProduct(original).text:original;if(!name)return;
+$('edit-form').onsubmit=event=>{event.preventDefault();const original=$('edit-name').value.trim();const name=$('edit-autocorrect').checked?correctProduct(original).text:original;if(!name)return;
  if(!items[editId]){message('Este item foi excluído em outro aparelho.');$('edit-dialog').close();return;}
  mutate(async()=>{await save(editId,{name,duration:$('edit-duration').value.trim(),quantity:$('edit-quantity').value.trim(),category:$('edit-category').value});showCorrection(editId,original,name);$('edit-dialog').close();});};
 function errorText(error){
