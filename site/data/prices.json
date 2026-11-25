@@ -1,0 +1,2287 @@
+{
+  "updatedAt": 1795640134625,
+  "provider": "Savelly (ofertas públicas por unidade)",
+  "offers": [
+    {
+      "name": "Hambúrguer Bovino Maturatta Friboi",
+      "price": 4.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco de Uva Santa Fé Integral",
+      "price": 11.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "No App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Guaraná Antarctica Original",
+      "price": 2.59,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Guaraná Antarctica Zero",
+      "price": 2.59,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco Concentrado de Caju Jandaia",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco Concentrado de Caju Dafruta",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Hambúrguer Perdigão Misto de Carne Bovina e de Frango",
+      "price": 12.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "App Meu Assaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Alho",
+      "price": 14.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Molho de Tomate Tradicional Bonare",
+      "price": 1.15,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Chuchu",
+      "price": 2.29,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pepino Comum",
+      "price": 2.95,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida Láctea Pulsi",
+      "price": 2.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Barra de Proteína Banana Brasil",
+      "price": 2.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Laranja Pera",
+      "price": 2.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Cenoura",
+      "price": 2.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Abobrinha Italiana",
+      "price": 3.69,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Manga Palmer",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de forma Q Pão",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Abacate",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de forma Os Primos",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Aguardente Caninha da Roça",
+      "price": 3.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Maçã Super K",
+      "price": 4.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Maçã Do Beni",
+      "price": 4.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata-doce Rosada",
+      "price": 4.95,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Melão Amarelo",
+      "price": 4.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Melão Verde",
+      "price": 4.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoito Club Social",
+      "price": 4.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite fermentado Chamyto Nestlé",
+      "price": 4.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida Alcoólica Mista Ice Smirnoff",
+      "price": 5.49,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Azeitona Verde Sem Caroço Vale Fértil",
+      "price": 5.49,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Banana Prata",
+      "price": 5.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de Forma Integral Seven Boys",
+      "price": 5.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Coco Seco",
+      "price": 5.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de Forma 12 Grãos Seven Boys",
+      "price": 5.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Abacaxi",
+      "price": 6.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Uva Crimson Benassi",
+      "price": 6.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Uva Benitaka",
+      "price": 6.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Waffle Tradicional Mr. Bey",
+      "price": 7.49,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ameixa",
+      "price": 7.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Maçã Nacional Fuji",
+      "price": 7.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Margarina Com Sal Cremosy",
+      "price": 7.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Requeijão Cremoso Tradicional Catupiry",
+      "price": 7.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mamão Papaia",
+      "price": 7.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Requeijão Cremoso Light Catupiry",
+      "price": 7.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Achocolatado em Pó Toddy Original",
+      "price": 8.89,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Desodorante Fragrâncias Herbíssimo",
+      "price": 8.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Manteiga Com Sal Só Minas",
+      "price": 8.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pilha Panasonic AA",
+      "price": 10.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Frango a Passarinho Seara Congelado",
+      "price": 10.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Iogurte Nestlé",
+      "price": 12.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Papel Higiênico Folha Dupla Familiar",
+      "price": 12.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mingau Tradicional Cremogema",
+      "price": 12.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Neston 3 Cereais Nestlé",
+      "price": 12.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Absorvente Intimus Cobertura Suave",
+      "price": 12.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Absorvente Intimus Cobertura Seca",
+      "price": 12.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Carne Bovina Moída Frimaster Congelado",
+      "price": 13.5,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Alho Inteiro Descascado Nutriz",
+      "price": 13.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de Queijo Massa Leve",
+      "price": 13.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Peito de Frango Sem Pele e Sem Osso Guibon Congelado",
+      "price": 13.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Condicionador Novex",
+      "price": 13.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Carré Suíno",
+      "price": 14.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Waffle Tradicional Perdigão",
+      "price": 14.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sabonete Dove",
+      "price": 14.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Costelinha Suína A Passarinho IQF Suinco Congelado",
+      "price": 14.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ketchup Hellmann's",
+      "price": 15.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filé de Peito de Frango Sadia Congelado",
+      "price": 15.98,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filé de Peito de Frango Aurora Congelado",
+      "price": 15.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mix de Legumes Clássico Grano",
+      "price": 16.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café Evolutto Tradicional",
+      "price": 16.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café Evolutto Extraforte",
+      "price": 16.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata Pré-Frita Rap Newbraz",
+      "price": 17.49,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pasta de Amendoim AmendoPower",
+      "price": 17.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filé de Polaca do Alasca Seara Congelado",
+      "price": 17.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Postas de Tilápia Copacol Congelado",
+      "price": 17.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Espumante Chuva de Prata",
+      "price": 19.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Kit Shampoo e Condicionador OX",
+      "price": 19.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Salsicha Sadia",
+      "price": 20.97,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Arroz Branco Longo Fino Tipo 1 Máximo",
+      "price": 21.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bacon Perdigão Em Manta",
+      "price": 21.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Panettone Casa Suíça",
+      "price": 21.99,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pilha Alcalina Duracell AA",
+      "price": 23.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pilha Alcalina Duracell AAA",
+      "price": 23.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Azeite de Oliva Extravirgem Gallo",
+      "price": 24.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Peixe Salgado Polaca-do-Alasca Sete Mares",
+      "price": 25.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filé de Tilápia C.Vale Congelado",
+      "price": 34.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filé de Coxas e Sobrecoxas de Frango Aurora Congelado",
+      "price": 35.7,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Nozes Com Casca",
+      "price": 38.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Linguiça Seara Tipo Calabresa Defumada",
+      "price": 39.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Whey Balance Protein Health Labs",
+      "price": 44.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Picanha Bovina Fatiada Bordon",
+      "price": 48.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata Monalisa Lavada",
+      "price": 49.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fralda descartável Huggies",
+      "price": 51.03,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fralda descartável Huggies",
+      "price": 51.07,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fralda descartável Huggies",
+      "price": 51.11,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fralda descartável Huggies",
+      "price": 59.2,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Queijo Tipo Minas Padrão Sertanorte",
+      "price": 59.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Queijo Tipo Minas Meia Cura Sertanorte",
+      "price": 59.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fralda descartável Huggies",
+      "price": 59.91,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Composto lácteo Primeira Infância 1 a 3 anos Ninho Nestlé",
+      "price": 78.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Whisky Escocês Black Label Johnnie Walker",
+      "price": 124.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ventilador de Mesa Britânia Bivolt",
+      "price": 139.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pneu XBRI",
+      "price": 219.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "No Cartão Passaí",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fritadeira Britânia",
+      "price": 249.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pneu Goodyear Direction Touring",
+      "price": 249.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pneu XBRI",
+      "price": 249.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ventilador de Coluna Arno",
+      "price": 259.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Caixa Amplificada Bivolt CM-300-N Mondial",
+      "price": 259.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Fritadeira Elétrica Philco",
+      "price": 349.9,
+      "market": "assai",
+      "marketName": "Assaí Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/743/assai-atacadista-rua-dias-da-cruz-371-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Wafer KitKat Nestlé",
+      "price": 3.5,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite condensado Integral Moça",
+      "price": 7.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida láctea UHT Zero lactose sem açúcar Nescau Protein",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata Inglesa",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Banana Prata",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Maçã Gala",
+      "price": 7.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Achocolatado em Pó Nescau",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Colher para sorvete Krea",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Whey Protein Emana",
+      "price": 99.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filtro de Papel Médio 102 Melitta",
+      "price": 3.49,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoito Cream Cracker Richester",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ketchup Heinz",
+      "price": 10.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoito Wafer Itamaraty",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida láctea Elegê",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida láctea Itambé",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Limpador Perfumado Concentrado Veja",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Barras de chocolate Garoto",
+      "price": 10.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café Pilão Expresso",
+      "price": 19.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café em Cápsulas L'Or",
+      "price": 19.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Espaguete Aldente",
+      "price": 4.79,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Waffle Mr. Bey Tradicional",
+      "price": 8.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Caixa térmica",
+      "price": 89.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Creme dental Colgate Tripla Ação",
+      "price": 6.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida Láctea UHT Nescau Protein Zero Lactose, Sem Açúcar",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Cocada Sococo Cremosa",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco de Uva Integral Prezunic",
+      "price": 13.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mini chicken de frango Perdigão",
+      "price": 15.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ração úmida para gatos Frutos vermelhos Friskies",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ração úmida para gatos Carne Friskies",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ração úmida para gatos Frutos do mar Friskies",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco Concentrado Caju Dafruta",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida láctea Piracanjuba Whey",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ameixa Nacional",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pêssego Nacional",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filezinho de Peito de Frango Perdigão",
+      "price": 16.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filezinho de Peito de Frango Seara",
+      "price": 16.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filezinho de Peito de Frango Sadia",
+      "price": 16.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café em Cápsula Cappuccino Dolce Gusto",
+      "price": 17.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café em Cápsula Mocha Dolce Gusto",
+      "price": 17.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Suco Aliança Integral de Uva Tinto",
+      "price": 17.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sabonete íntimo Dermacyd",
+      "price": 17.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bolo Morango Ana Maria",
+      "price": 3.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bolo Chocolate Ana Maria",
+      "price": 3.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bolo Gotas de Chocolate Ana Maria",
+      "price": 3.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bisnaguinha Tradicional Prezunic",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pão de Forma Tradicional Prezunic",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata Ruffles",
+      "price": 10.89,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata Lays",
+      "price": 10.89,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Salgadinho Doritos",
+      "price": 10.89,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sorvete Kibon Tradicional",
+      "price": 21.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Lava-roupas em pó OMO",
+      "price": 21.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Pneu Routeway",
+      "price": 219.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata-palha Extrafina Elma Chips",
+      "price": 13.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata-palha Tradicional Elma Chips",
+      "price": 13.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café em Pó Evolutto",
+      "price": 19.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café em Pó Tradicional Cuisine&Co",
+      "price": 19.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Queijo Coalho Espeto Regina",
+      "price": 19.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Creme de leite Tradicional Nestlé",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Açúcar Refinado Cuisine&Co",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ração úmida para gatos Carne ao molho Whiskas",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ração úmida para cães Adulto 7+ Carne Pedigree",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoitos Piraquê Maizena",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoitos Piraquê Maltado",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoito Salgadinho Piraquê",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Biscoitos Piraquê Recheado",
+      "price": 2.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite condensado Semidesnatado Moça",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Massa de pastel Massa Leve",
+      "price": 5.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Refrigerante Antarctica Guaraná",
+      "price": 8.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Refrigerante Pepsi Cola",
+      "price": 8.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Linguiça Perdigão De Pernil",
+      "price": 14.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Linguiça para Churrasco Aurora",
+      "price": 14.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite em Pó Instantâneo Ninho",
+      "price": 14.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Shampoo + Condicionador Dabelle",
+      "price": 15.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Filezinho de Peito de Frango Seara",
+      "price": 17.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bombom sorvete Bacio di Latte",
+      "price": 29.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sabão líquido Lavanda Omo",
+      "price": 29.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sabão líquido Omo",
+      "price": 29.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mini Sorvete Kibon Chicabon",
+      "price": 12.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Mini Sorvete Kibon Eskibon",
+      "price": 12.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Kit Cereal Matinal e Achocolatado Snow Flakes + Nescau",
+      "price": 12.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bombom Garoto",
+      "price": 12.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite em pó Desnatado Molico",
+      "price": 15.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite em pó Integral Instantâneo Ninho",
+      "price": 15.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite em pó Integral Ninho",
+      "price": 15.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Enxaguante bucal Colgate",
+      "price": 18.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Leve 750 ml e pague 500 ml",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café Gourmet L'Or Torras",
+      "price": 24.98,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite UHT Piracanjuba",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite UHT Elegê",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Leite UHT Glória",
+      "price": 4.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Prato pronto Perdigão",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ovos",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Linguiça de Costela Maturatta",
+      "price": 9.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Achocolatado Toddy",
+      "price": 16.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bombom de Sorvete Bacio di Latte",
+      "price": 19.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sorvete Nestlé Tradicional",
+      "price": 19.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Lava-roupas líquido Uau",
+      "price": 19.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Ovinhos Elma Chips",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Bebida Nestlé",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Aurroggets de Frango Empanado Tradicional Aurora",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Aurroggets de Frango Empanado Com Queijo Aurora",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Chocolate Bis Lacta",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Amendoim Elma Chips",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Café 3 Corações Solúvel",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Aurroggets de Frango Empanado Crocante Aurora",
+      "price": 6.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Hambúrguer Perdigão",
+      "price": 13.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Sabonete em barra Protex",
+      "price": 17.95,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Alho",
+      "price": 17.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Purificador Bom Ar",
+      "price": 27.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Condicionador Dove",
+      "price": 29.6,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Vinho Arbo",
+      "price": 34.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Whisky Finest Ballantine's",
+      "price": 69.9,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Queijo Minas Padrão Itambé",
+      "price": 69.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Queijo Minas Padrão Regina",
+      "price": 69.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Requeijão Tradicional Vigor",
+      "price": 7.89,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Requeijão Light Vigor",
+      "price": 7.89,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Doce de leite Italac",
+      "price": 10.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Kit Cloro Uau",
+      "price": 10.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Limpador Multiuso Veja",
+      "price": 10.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Kit Multiuso Veja",
+      "price": 10.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "Clube",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    },
+    {
+      "name": "Batata-palha Elma Chips Tradicional",
+      "price": 14.99,
+      "market": "prezunic",
+      "marketName": "Prezunic Méier",
+      "condition": "",
+      "source": "https://savelly.com.br/rio-de-janeiro/loja/1848/prezunic-rua-dias-da-cruz-579-meier",
+      "checkedAt": 1795640134625,
+      "expiresAt": 1795726534625
+    }
+  ],
+  "errors": []
+}

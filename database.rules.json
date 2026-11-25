@@ -1,0 +1,98 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "items": {
+      ".read": "auth != null && (auth.uid === 'UID_DA_PESSOA_1' || auth.uid === 'UID_DA_PESSOA_2')",
+      ".write": "auth != null && (auth.uid === 'UID_DA_PESSOA_1' || auth.uid === 'UID_DA_PESSOA_2')",
+      "$item": {
+        ".validate": "newData.hasChildren(['name', 'quantity', 'category', 'done', 'createdAt'])",
+        "name": {
+          ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 100"
+        },
+        "quantity": {
+          ".validate": "newData.isString() && newData.val().length <= 40"
+        },
+        "category": {
+          ".validate": "newData.val() === 'hortifruti' || newData.val() === 'limpeza' || newData.val() === 'higiene' || newData.val() === 'bebidas' || newData.val() === 'frios' || newData.val() === 'proteinas' || newData.val() === 'alimentos' || newData.val() === 'congelados' || newData.val() === 'outros' || newData.val() === 'pet' || newData.val() === 'casa'"
+        },
+        "done": {
+          ".validate": "newData.isBoolean()"
+        },
+        "createdAt": {
+          ".validate": "newData.isNumber() && newData.val() > 0"
+        },
+        "$other": {
+          ".validate": false
+        },
+        "purchasedAt": {
+          ".validate": "newData.isNumber() && newData.val() > 0"
+        },
+        "estimatedPrice": {
+          ".validate": "newData.isNumber() && newData.val() > 0 && newData.val() <= 999999"
+        },
+        "priceMarket": {
+          ".validate": "newData.val() === '' || newData.val() === 'assai' || newData.val() === 'prezunic'"
+        },
+        "actualPaid": {
+          ".validate": "newData.isNumber() && newData.val() > 0 && newData.val() <= 999999"
+        },
+        "purchaseMarket": {
+          ".validate": "newData.val() === 'assai' || newData.val() === 'prezunic' || newData.val() === 'other'"
+        },
+        "purchaseOther": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        },
+        "brand": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        },
+        "duration": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        }
+      }
+    },
+    "history": {
+      ".read": "auth != null && (auth.uid === 'UID_DA_PESSOA_1' || auth.uid === 'UID_DA_PESSOA_2')",
+      ".write": "auth != null && (auth.uid === 'UID_DA_PESSOA_1' || auth.uid === 'UID_DA_PESSOA_2')",
+      "$event": {
+        ".validate": "newData.hasChildren(['name','category','quantity','kind','at','itemId'])",
+        "name": {
+          ".validate": "newData.isString() && newData.val().length > 0 && newData.val().length <= 100"
+        },
+        "category": {
+          ".validate": "newData.val() === 'hortifruti' || newData.val() === 'limpeza' || newData.val() === 'higiene' || newData.val() === 'bebidas' || newData.val() === 'frios' || newData.val() === 'proteinas' || newData.val() === 'alimentos' || newData.val() === 'congelados' || newData.val() === 'outros' || newData.val() === 'pet' || newData.val() === 'casa'"
+        },
+        "quantity": {
+          ".validate": "newData.isString() && newData.val().length <= 40"
+        },
+        "kind": {
+          ".validate": "newData.val() === 'added' || newData.val() === 'bought'"
+        },
+        "at": {
+          ".validate": "newData.isNumber() && newData.val() > 0"
+        },
+        "itemId": {
+          ".validate": "newData.isString()"
+        },
+        "$other": {
+          ".validate": false
+        },
+        "actualPaid": {
+          ".validate": "newData.isNumber() && newData.val() > 0 && newData.val() <= 999999"
+        },
+        "purchaseMarket": {
+          ".validate": "newData.val() === 'assai' || newData.val() === 'prezunic' || newData.val() === 'other'"
+        },
+        "purchaseOther": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        },
+        "brand": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        },
+        "duration": {
+          ".validate": "newData.isString() && newData.val().length <= 80"
+        }
+      }
+    }
+  }
+}
