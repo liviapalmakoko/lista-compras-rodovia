@@ -16,9 +16,9 @@ Site em português, feito para celular e pronto para GitHub Pages. HTML, CSS e J
 
 ## Publicar
 
-O workflow `.github/workflows/pages.yml` publica `site/` no GitHub Pages a cada push na branch main. No GitHub, escolha **Settings → Pages → Source → GitHub Actions** se a publicação não estiver habilitada.
+A publicação usa **Settings → Pages → Deploy from a branch → main → /docs**. O aplicativo público fica em `docs/`, e o código de desenvolvimento fica em `site/`. Ao alterar a aplicação, sincronize as duas pastas antes do push. O workflow apenas verifica os testes, sem permissão para gravar na branch.
 
-A rotina também consulta ofertas públicas das duas unidades do Méier a cada publicação e diariamente às 08h de São Paulo. O GitHub pode atrasar execuções agendadas e desabilitá-las após inatividade do repositório. O site não contém rotinas de reset de teste.
+A atualização automática diária das ofertas está pendente de autorização do workflow. Para atualizar manualmente, execute `python3 scripts/update_prices.py`, copie `site/data/prices.json` para `docs/data/prices.json` e faça commit e push. As referências vencem após 24 horas; depois disso, a lista usa o histórico disponível.
 
 ## Compartilhar entre os dois celulares
 

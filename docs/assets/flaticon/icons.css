@@ -1,0 +1,45 @@
+/* UIcons Regular Rounded 4.0.0 by Flaticon. https://www.flaticon.com/uicons
+   Official font, with only the selectors used by this site. */
+@font-face{font-family:uicons-regular-rounded;src:url('./uicons-regular-rounded.woff2') format('woff2');font-display:block}
+.fi{display:inline-block;font-style:normal;line-height:1}
+.fi:before{font-family:uicons-regular-rounded!important;font-style:normal;font-weight:normal!important;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.fi-rr-carrot:before {
+    content: "\e3d4";
+    }
+.fi-rr-broom:before {
+    content: "\e2fb";
+    }
+.fi-rr-soap:before {
+    content: "\f235";
+    }
+.fi-rr-glass:before {
+    content: "\e968";
+    }
+.fi-rr-cheese:before {
+    content: "\e437";
+    }
+.fi-rr-drumstick:before {
+    content: "\e72d";
+    }
+.fi-rr-wheat:before {
+    content: "\f5f8";
+    }
+.fi-rr-snowflake:before {
+    content: "\f22d";
+    }
+.fi-rr-paw:before {
+    content: "\ee88";
+    }
+.fi-rr-home:before {
+    content: "\ea8b";
+    }
+.fi-rr-apps:before {
+    content: "\e0c4";
+    }
+.fi-rr-list-check:before {
+    content: "\ec32";
+    }
+
+.fi-rr-microphone:before {
+    content: "\ed13";
+    }
