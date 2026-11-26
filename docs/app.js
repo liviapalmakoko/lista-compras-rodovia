@@ -5,7 +5,7 @@ import {purchaseStats} from './stats.js';
 import {suggestions,productKey,DAY} from './history.js';
 import {splitSpokenItems,speechSupported,createRecognition} from './voice.js?v=soma-1';
 import {categoryIcon} from './icons.js';
-import {orderItems} from './order.js';
+import {orderItems} from './order.js?v=categorias-az-1';
 import {categories,classify} from './categories.js';
 import {correctProduct} from './correction.js';
 import {firebaseConfig,sharedConfig} from './config.js?v=compartilhada-1';
@@ -32,7 +32,8 @@ function render(){
  const entries=orderItems(items,order);
  const done=entries.filter(([,i])=>i.done).length;
  $('counter').textContent=`${entries.length} ${entries.length===1?'item':'itens'}`;
- $('remaining').textContent=`· ${entries.length-done} para comprar`;
+ $('pending-count').textContent=entries.length-done;$('done-count').textContent=done;
+ $('remaining').textContent=filter==='done'?`· ${done} ${done===1?'comprado':'comprados'}`:`· ${entries.length-done} para comprar`;
  $('progress-label').textContent=entries.length?`${done} de ${entries.length} ${entries.length===1?'item comprado':'itens comprados'}`:'Nenhum item por enquanto';
  $('progress').max=Math.max(entries.length,1);$('progress').value=done;
  $('clear').disabled=!done||busy||!ready;
