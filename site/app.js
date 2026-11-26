@@ -32,6 +32,7 @@ function render(){
  const entries=orderItems(items,order);
  const done=entries.filter(([,i])=>i.done).length;
  $('counter').textContent=`${entries.length} ${entries.length===1?'item':'itens'}`;
+ $('menu-list-count').textContent=entries.length-done;
  $('pending-count').textContent=entries.length-done;$('done-count').textContent=done;
  $('remaining').textContent=filter==='done'?`· ${done} ${done===1?'comprado':'comprados'}`:`· ${entries.length-done} para comprar`;
  $('progress-label').textContent=entries.length?`${done} de ${entries.length} ${entries.length===1?'item comprado':'itens comprados'}`:'Nenhum item por enquanto';

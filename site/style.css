@@ -70,3 +70,5 @@ label,.page-menu a,.sort-options button,.filters button,.quiet{font-size:var(--t
 .input-preferences{display:flex;align-items:center;flex-wrap:wrap;gap:10px 24px;margin-top:20px}.input-preferences .autocorrect{margin:0;width:auto;white-space:nowrap}@media(max-width:650px){.input-preferences{gap:10px 18px}}
 
 .filters button{display:inline-flex;align-items:center;gap:6px}.filter-count{display:inline-grid;place-items:center;min-width:19px;height:19px;padding:0 5px;border-radius:10px;background:#deded7;color:#73736b;font-size:var(--text-tiny);font-weight:600;font-variant-numeric:tabular-nums}.filters button[aria-pressed=true] .filter-count{background:#e8e8e1;color:#44443e}
+
+.menu-label{display:inline-flex;align-items:center;justify-content:center;gap:7px}.menu-count{display:inline-grid;place-items:center;min-width:20px;height:20px;padding:0 6px;border-radius:10px;background:#deded7;color:#74746b;font-size:var(--text-tiny);font-weight:600;font-variant-numeric:tabular-nums;flex-shrink:0}.page-menu a[aria-current=page] .menu-count{background:#d9d9d1;color:#44443e}
