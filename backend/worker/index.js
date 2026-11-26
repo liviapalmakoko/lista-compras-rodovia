@@ -1,9 +1,10 @@
+import {lookupAmazon} from './amazon.js';
 // Public-by-link shared list. The access identifier is a client capability, not an admin secret.
 const LIST_ID='e90b245fd6684690b4f80d964a7c4595';
 const ORIGINS=new Set(['https://liviapalmakoko.github.io','http://localhost:8000','http://127.0.0.1:8000']);
-const fields=new Set(['name','brand','duration','quantity','category','done','createdAt','purchasedAt','actualPaid','purchaseMarket','purchaseOther','estimatedPrice','priceMarket','kind','at','itemId']);
+const fields=new Set(['name','brand','size','duration','quantity','category','done','createdAt','purchasedAt','actualPaid','purchaseMarket','purchaseOther','estimatedPrice','priceMarket','kind','at','itemId']);
 const sectors=new Set(['hortifruti','limpeza','higiene','bebidas','frios','proteinas','alimentos','congelados','pet','casa','outros']);
-const strings={name:100,brand:80,duration:80,quantity:40,purchaseOther:80,itemId:150};
+const strings={name:100,brand:80,size:80,duration:80,quantity:40,purchaseOther:80,itemId:150};
 export function validPatch(collection,patch,full=false){
  if(!patch||Array.isArray(patch)||typeof patch!=='object')return false;
  for(const [key,value] of Object.entries(patch)){
@@ -30,11 +31,21 @@ export default {async fetch(request,env){
  if(request.method==='OPTIONS')return new Response(null,{status:ORIGINS.has(origin)?204:403,headers:headers(origin)});
  const url=new URL(request.url);
  if(url.pathname==='/')return json({service:'Lista Rodovia · sincronização',status:'ok'},200,origin);
- if(!['/api/state','/api/update','/api/import'].includes(url.pathname))return json({error:'not_found'},404,origin);
+ if(!['/api/state','/api/update','/api/import','/api/amazon'].includes(url.pathname))return json({error:'not_found'},404,origin);
  if(origin&&!ORIGINS.has(origin))return json({error:'origin_not_allowed'},403,origin);
  if(request.headers.get('X-List-Access')!==LIST_ID)return json({error:'list_access_required'},403,origin);
  if(!env.DB)return json({error:'storage_unavailable'},503,origin);
  try{
+  if(url.pathname==='/api/amazon'){
+   if(request.method!=='GET')return json({error:'method_not_allowed'},405,origin);
+   const id=url.searchParams.get('itemId')||'';
+   if(!/^[a-zA-Z0-9_-]{1,180}$/.test(id))return json({error:'invalid_item'},400,origin);
+   const row=await env.DB.prepare("SELECT body FROM shared_records WHERE collection = 'items' AND id = ?").bind(id).first();
+   if(!row)return json({error:'item_not_found'},404,origin);
+   const item=JSON.parse(row.body);
+   if(item.done)return json({status:'skipped',offer:null},200,origin);
+   return json(await lookupAmazon(env.DB,item,env),200,origin);
+  }
   if(url.pathname==='/api/state'&&request.method==='GET')return json(await snapshot(env.DB),200,origin);
   if(request.method!=='POST'||url.pathname==='/api/state')return json({error:'method_not_allowed'},405,origin);
   const raw=await request.text();if(raw.length>512000)return json({error:'request_too_large'},413,origin);

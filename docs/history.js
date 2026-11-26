@@ -23,7 +23,7 @@ export function suggestions(history,items,now=Date.now()){
   const planned=durationDays(latest.duration||'');
   if(planned&&lastPurchase){
    const nextAt=lastPurchase.at+planned*DAY;
-   if(nextAt<=now+3*DAY)results.push({key,name:latest.name,brand:'',duration:latest.duration,category:latest.category,quantity:latest.quantity||'',nextAt,days:planned,samples:bought.length,source:'prazo informado',initial:false});
+   if(nextAt<=now+3*DAY)results.push({key,name:latest.name,brand:latest.brand||'',size:latest.size||'',duration:latest.duration,category:latest.category,quantity:latest.quantity||'',nextAt,days:planned,samples:bought.length,source:'prazo informado',initial:false});
    continue;
   }
   if(samples.length<2)continue;
@@ -33,7 +33,7 @@ export function suggestions(history,items,now=Date.now()){
   // Uma compra recente reinicia a contagem, mesmo se a estimativa usa inclusões.
   const nextAt=latest.at+interval;
   if(nextAt>now+3*DAY)continue;
-  results.push({key,name:latest.name,brand:'',duration:latest.duration||'',category:latest.category,quantity:latest.quantity||'',nextAt,days:Math.max(1,Math.round(interval/DAY)),samples:samples.length,source: samples===bought?'compras':'inclusões',initial:samples.length<3});
+  results.push({key,name:latest.name,brand:latest.brand||'',size:latest.size||'',duration:latest.duration||'',category:latest.category,quantity:latest.quantity||'',nextAt,days:Math.max(1,Math.round(interval/DAY)),samples:samples.length,source: samples===bought?'compras':'inclusões',initial:samples.length<3});
  }
  return results.sort((a,b)=>a.nextAt-b.nextAt);
 }

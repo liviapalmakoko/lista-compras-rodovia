@@ -42,6 +42,16 @@ As sugestões de reposição usam intervalos medianos entre compras ou inclusõe
 
 Limpar comprados preserva o histórico. O × da janela de compra remove o evento da marcação cancelada. As estatísticas contam registros de compra e somam somente valores reais informados, indicando cobertura.
 
+## Amazon: consulta automática
+
+Ao carregar ou adicionar um item pendente, o cliente consulta `/api/amazon?itemId=…` no serviço compartilhado, sem bloquear a lista. Marca e tamanho da embalagem são opcionais no formulário de inclusão e edição; são preservados no histórico e no preenchimento automático. Quantidade continua indicando quanto comprar.
+
+**Ativação pendente:** a consulta depende de uma conta Rainforest API e do segredo `RAINFOREST_API_KEY` configurado no serviço Sites. Amazon Prime não fornece essa chave. Nenhuma assinatura foi contratada e nenhuma chave está no frontend. Sem essa configuração, o site informa que a consulta não está ativada e oferece um link de busca; não inventa preços. A integração foi verificada com respostas de teste, ainda sem uma consulta autenticada real ao fornecedor.
+
+O serviço pesquisa a Amazon Brasil e exige as palavras do produto e da marca e as medidas informadas. Descarta kits não solicitados, preços ausentes e moedas diferentes de BRL; nomes genéricos continuam exigindo conferência de variante. Mostra o anúncio, preço, link, sinalização Prime quando disponível e data da consulta. Não garante frete grátis nem altera os totais estimados do mercado.
+
+As referências são compartilhadas e reaproveitadas por até seis horas; resultados sem anúncio duram uma hora e falhas, cinco minutos. Há limite padrão de 20 consultas externas por dia UTC, ajustável por `AMAZON_DAILY_LIMIT` entre 1 e 100. A cobrança real depende do plano do fornecedor. Ao atingir o limite, os links continuam disponíveis. Dois celulares não devem gerar consultas simultâneas para a mesma referência.
+
 ## Voz
 
 O reconhecimento usa SpeechRecognition do navegador em pt-BR. Pode precisar de internet e processar o áudio no serviço do navegador. O site não grava áudio. A compatibilidade varia; é necessário permitir o microfone. HTTPS ou localhost são necessários. Separe produtos com a palavra SOMA. Quantidade e duração podem ser ajustadas antes de adicionar.
